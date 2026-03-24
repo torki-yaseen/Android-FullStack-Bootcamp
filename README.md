@@ -5,6 +5,7 @@
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Google Maps](https://img.shields.io/badge/Google_Maps-4285F4?style=for-the-badge&logo=google-maps&logoColor=white)
+![freeCodeCamp](https://img.shields.io/badge/Learned_at-freeCodeCamp-0a0a23?style=for-the-badge&logo=freeCodeCamp&logoColor=white)
 
 > **"45+ Hours of code. From basic variables to a production-ready Uber Clone."** 🚗💨
 
@@ -54,10 +55,16 @@ Welcome to my Android Development portfolio repository! This workspace documents
 - [ ] Fetched live internet data using Retrofit
 - [ ] Implemented advanced Google Maps features (Live tracking, Multi-car management)
 
----
 
-### 🤝 Connect With Me
-Are you building in Android too? Let's connect! 
-*(Add your LinkedIn or Portfolio link here)*
+--------------------------------
+## 🎓 Credits & Acknowledgments
 
-⭐ **If you find this repository useful or want to follow my journey, drop a star!** ⭐
+This repository is a structured implementation of the **Android & Kotlin Development Masterclass** provided by **freeCodeCamp**. 
+
+* **Platform:** [freeCodeCamp.org](https://www.youtube.com/@freecodecamp) ![freeCodeCamp](https://img.shields.io/badge/Learned_at-freeCodeCamp-0a0a23?style=flat-square&logo=freeCodeCamp&logoColor=white)
+* **Lead Instructor:** [Programming with Alex](https://www.youtube.com/@programmingwithalex.585)
+* **Course Link:** [45-Hour Android & Kotlin Masterclass](https://www.youtube.com/watch?v=blKkRoZPxLc)
+
+*Special thanks to the freeCodeCamp community for providing high-quality, accessible engineering education.*
+
+---s repository useful or want to follow my journey, drop a star!** ⭐
