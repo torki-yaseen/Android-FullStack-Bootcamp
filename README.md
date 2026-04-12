@@ -8,6 +8,7 @@
 > **"Mastering modern Android Development, one day at a time. From 'Hello World' to publishing on Google Play."** 📱💡
 
 Welcome to my daily Android development log! This repository tracks my progress through a comprehensive, day-by-day Kotlin and Android masterclass. My ultimate goal is to build cloud-connected apps, master Jetpack Compose, and publish production-ready applications to the Google Play Store.
+Hope I can develope daily.
 
 ---
 
